@@ -104,10 +104,10 @@ p {
 }
 
 /* About Section */
-#about .about-container {
+/* #about .about-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
-}
+} */
 
 #target {
   background-color: #f5f5f5;
@@ -142,10 +142,10 @@ p {
 }
 
 /* Job-info Section */
-#job-info .container {
+/* #job-info .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-}
+} */
 
 #job-info .job-item {
   height: 100%;
